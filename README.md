@@ -17,6 +17,6 @@ Correcting for heading and path error.
 
 0. Raise to desired altitude and turn on alt. hold
 1. Hit the AutoNav Switch (see the main function)
-  a. It will use magnetometer to change yaw to face first wavepoint
-  b. Then will change pitch and move forward to desired wavepoint
-  c. Upon calculating that it reached the wavepoint, will stop pitching and resume altitude hold
+  a. It will use magnetometer to change yaw to face first GPS waypoint
+  b. Then will change pitch and move forward to desired waypoint
+  c. Upon calculating that it reached the waypoint, will stop pitching and resume altitude hold
