@@ -1,6 +1,8 @@
-Automated Wavepoint Navigation code for AeroQuad 32, written by Salem Karani.
+Automated Waypoint Navigation code for AeroQuad 32, written by Salem Karani (Project Peregrine lead engineer).
 Available for all forms of reuse under MIT license. 
 Have fun
+
+Demo Video: https://www.youtube.com/watch?v=IerisuoUIgE
 
 Note:
 
