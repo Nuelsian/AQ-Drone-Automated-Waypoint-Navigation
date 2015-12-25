@@ -7,7 +7,7 @@ Demo Video: https://www.youtube.com/watch?v=IerisuoUIgE
 Note:
 
 Look in AeroQuad folder for primary AutoNav code. Be sure to use the GUI to load waypoints before trying the software.
-Primary contributions in: GpsNavigator, FlightCommandProcessor, FlightControlProcessor, etc.
+Primary contributions in: HeadingHoldProcessor, GpsNavigator, FlightCommandProcessor, FlightControlProcessor, etc.
 
 Key Ideas:
 
