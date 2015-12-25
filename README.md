@@ -9,6 +9,8 @@ Note:
 Look in AeroQuad folder for primary AutoNav code. Be sure to use the GUI to load waypoints before trying the software.
 Primary contributions in: HeadingHoldProcessor, GpsNavigator, FlightCommandProcessor, FlightControlProcessor, etc.
 
+Hardware: Baloo stm32 board, OpenLog for logging, cheap 50 cent buzzer and led lights + relay controlled via GPIO upon correct heading + reaching destination.
+
 Key Ideas:
 
 Correcting for heading and path error.
